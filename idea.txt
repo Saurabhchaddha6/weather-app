@@ -1,0 +1,3 @@
+1.Take the location from the user
+2.Display the weather of that location
+3.Display sunrise and sunset time
